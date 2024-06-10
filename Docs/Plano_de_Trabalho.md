@@ -13,7 +13,7 @@
 | 1.0    | Elaboração do Plano de Trabalho |           |  04/06 |
 
 ## Índice
-1. Introdução
+1. [Introdução](https://github.com/abreulucass/APP-WebDoctors/edit/main/Docs/Plano_de_Trabalho.md#1-introdu%C3%A7%C3%A3o)
 2. Informações Gerais
 3. Metodologia de Projetos
 
@@ -26,9 +26,18 @@
 
 ## 1.1 Objeto Geral
   Desenvolver um aplicativo de telemedicina para consultas médicas online, com envio de exames, acompanhamento da fila e acesso a prontuários. Proporcionar aos médicos o gerenciamento dos horários e histórico de consultas para otimização do atendimento.
+  
 ## 1.2 Objetivos específicos
 - Desenvolver o aplicativo móvel para iOS e Android com funcionalidades de consultas online, envio de exames e visualização de prontuários.
 - Facilitar o gerenciamento de horários de consulta para médicos e permitir que pacientes agendem e cancelem consultas online.
 - Implementar funcionalidades seguras para envio e revisão de exames laboratoriais e de imagem.
 - Garantir a conformidade com as regulamentações de telemedicina e proteção de dados.
 - Criar um sistema de notificações automáticas para lembrar pacientes sobre consultas e exames.
+
+## 1.3 Motivação, Justificativa e Oportunidade
+**Motivação**: Facilidade e eficiência a pacientes na gestão de consultas médicas. Tornar a gestão de consultas médicas mais eficiente com foco em uma melhor comunicação entre todas as partes envolvidas.
+
+**Justificativa**: A implementação de um sistema móvel de gestão de consultas médicas pode trazer uma melhoria no aspecto do usuário não ter o trabalho da locomoção até um consultório médico, trazendo também um maior controle e flexibilidade para os médicos em relação a horários de consultas.
+
+**Oportunidade**: Após a pandemia houve uma crescente no quesito “Atendimento remoto”, por conta disso, este projeto visa tanto o atendimento remoto quanto uma melhor gestão de consultas online.
+
