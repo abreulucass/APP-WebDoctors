@@ -1,7 +1,7 @@
 # Plano de Trabalho
 
 | Nome do Projeto:       |           WebDoctors            |
-|------------------------|---------------------------------|
+|:----------------------:|:-------------------------------:|
 |       Versão:          |              1.0                |
 |       Status:          | Elaboração do Plano de Trabalho |
 | Executor Principal:    | Lucas Matos                     |
@@ -13,7 +13,7 @@
 | 1.0    | Elaboração do Plano de Trabalho |           |  04/06 |
 
 ## Índice
-1. [Introdução](https://github.com/abreulucass/APP-WebDoctors/edit/main/Docs/Plano_de_Trabalho.md#1-introdu%C3%A7%C3%A3o)
+1. [Introdução](https://github.com/abreulucass/APP-WebDoctors/edit/main/Docs/Plano_de_Trabalho.md#1.-Introdução)
 2. Informações Gerais
 3. Metodologia de Projetos
 
