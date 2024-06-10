@@ -13,7 +13,7 @@
 | 1.0    | Elaboração do Plano de Trabalho |           |  04/06 |
 
 ## Índice
-1. [Introdução](https://github.com/abreulucass/APP-WebDoctors/main/Docs/Plano_de_Trabalho.md#1-introdução)
+1. [Introdução](https://github.com/abreulucass/APP-WebDoctors/Docs/Plano_de_Trabalho.md#1-introdução)
 2. Informações Gerais
 3. Metodologia de Projetos
 
