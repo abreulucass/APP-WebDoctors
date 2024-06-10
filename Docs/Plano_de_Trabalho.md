@@ -41,3 +41,30 @@
 
 **Oportunidade**: Após a pandemia houve uma crescente no quesito “Atendimento remoto”, por conta disso, este projeto visa tanto o atendimento remoto quanto uma melhor gestão de consultas online.
 
+## 1.4 Caracterização do Projeto
+ O projeto está direcionado ao desenvolvimento de um sistema móvel para o gerenciamento de consultas médicas, com funcionalidades que englobam tanto os pacientes quanto os médicos. Nesse aspecto, os pacientes poderão marcar consultas online (telemedicina), enviar seus exames, ver prontuário e consultar fila de atendimento. Assim como os médicos poderão gerir seus horários e históricos de consultas dos pacientes. O aplicativo também seguirá de forma rigorosa as regulamentações de saúde digital buscando garantir uma maior segurança e privacidade dos dados.
+ 
+**Classe**: Aplicativo móvel desenvolvido para plataformas iOS e Android, com funcionalidades de telemedicina, agendamento de consultas, envio de exames, visualização de prontuário, gestão de fila de atendimento, e gerenciamento de horários e histórico de consultas para médicos.
+ 
+**Enquadrabilidade**: O aplicativo de Saúde Digital segue as regulamentações de telemedicina (Lei nº 14.510, sancionada em 27 de dezembro de 2022) e proteção de dados de saúde dos pacientes (LGPD - Lei nº 13.709/2018 Aprovada em 2018), garantindo a segurança e a privacidade das informações médicas transmitidas e armazenadas.
+ 
+**Tipo**: Esse desenvolvimento de software visa a criação de um aplicativo com backend em nuvem, interface de usuário responsiva, integração com sistemas de gestão de saúde existentes, suporte para vídeo chamadas para consultas de telemedicina, e funcionalidades de envio e visualização de exames médicos.
+
+## 1.4.1 Classe
+|      Classe      | Detalhamento |
+|:----------------:|:-------------|
+| Aplicativo Movel | Aplicativo desenvolvido para plataformas iOS e Android, tem como funcionalidade consulta online, verificação de prontuário, exame, fila 		     de atendimento e gestão de horários e consultas para médicos.|
+
+## 1.4.2 Enquadrabilidade
+| Enquadrabilidade           | Detalhamento |
+|:--------------------------:| :------------: |
+| Aplicativo de Saúde Digital| Segue as regulamentações de telemedicina e proteção de dados de saúde dos pacientes.|
+
+## 1.4.3 Tipo
+| Tipo           |          | Detalhamento |
+|:--------------:|----------|:-------------|
+| Desenvolvimento| Software | Criação de um aplicativo com backend em nuvem e interface de usuário responsiva. |
+
+
+
+
