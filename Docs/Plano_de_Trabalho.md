@@ -185,7 +185,7 @@ A cronologia metodológica se baseia nos seguintes aspectos:
 ### 3.4 Entregas de cada Fase
 | Fase | Mês | Entregavél |
 |------|:---:|------------|
-| I. Especificação | Janeiro e Fevereiros | |
+| I. Especificação | Janeiro e Fevereiro | |
 | II. Inspeção | Março e Abril| |
 | III. Projeto e Arquitetura | Maio e Junho | |
 | IV. Prototipagem e Refinamento | Julho e Agosto| |
