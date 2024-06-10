@@ -9,8 +9,8 @@
 
 ## Histórico de Versão
 | Versão |             Descrição           |   Autor   | Data  |
-|--------|---------------------------------|-----------|-------|
-| 1.0    | Elaboração do Plano de Trabalho | Mateus    |  04/06 |
+|--------|---------------------------------|:-----------:|-------|
+| 1.0    | Elaboração do Plano de Trabalho | Emanuelle Gil, Erison Pinto, Lucas Matos, Mateus, Willy Gonzaga |  10 de Maio de 2024 |
 
 ## Índice
 1. [Introdução](https://github.com/abreulucass/APP-WebDoctors/blob/main/Docs/Plano_de_Trabalho.md#1-introdução)
