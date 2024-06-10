@@ -108,11 +108,11 @@
 | Tipo           |   Modelos e Especificações   |
 |:--------------:|:----------------------------:|
 | Ferramenta de Documentação | Google Documentos |
-| Ferramenta de Controle de Versão e Colaboração | - Github, Markdown |
+| Ferramenta de Controle de Versão e Colaboração | Github, Markdown |
 | Ferramenta de Criação de Diagramas UML | Draw.io |
 | Ferramenta de Apresentação | Google Apresentações |
-| Ferramentos de Desenvolvimento | |
-
+| Ferramentos de Desenvolvimento | IDE: Android Studio, Xcode;                                                                                       Linguagens de Programação: Kotlin (android), Express.js;                                                                                            Backend: Node.js, Express.js;                                                                                                                           Banco de dados: MySQL;                                                                                                                           Hospedagem: AWS|
+                                
 ### 2.4 Características Inovadoras do Projeto
 - Acesso a consultas de qualquer lugar com internet.
 - Integração completa entre pacientes e médicos.
