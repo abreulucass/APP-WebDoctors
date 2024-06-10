@@ -170,26 +170,45 @@ A cronologia metodológica se baseia nos seguintes aspectos:
 | Teste | Mateus |
 
 ### 3.3 Fases, Atividades e Cronograma
-#### Fase I: Especificação – Janeiro/Fevereiro: 
+#### Fase I: Especificação – Maio/Junho: 
+- Levantamento de Requisitos
+- Análise de Requisitos
+- Especificação Técnica
+- Plano de Testes Iniciais
 
-#### Fase II: Inspeção – Março/Abril: 
+#### Fase II: Inspeção – Julho: 
+- Inspeção de Requisitos
+- Inspeção de Especificações Técnicas
+- Revisão do Plano de Testes
 
-#### Fase III: Projeto e Arquitetura – Maio/Junho:
+#### Fase III: Projeto e Arquitetura – Agosto/Setembro:
+- Definição da Arquitetura
+- Desenvolvimento do Projeto Detalhado
+- Revisão e Aprovação do Projeto
 
-#### Fase IV: Prototipagem e Refinamento – Julho:
+#### Fase IV: Prototipagem e Refinamento – Outubro:
+- Desenvolvimento de Protótipos
+- Avaliação e Coleta de Feedback
+- Refinamento dos Protótipos
 
-#### Fase V: Prototipagem e Refinamento – Agosto:
+#### Fase V: Prototipagem e Refinamento – Novembro:
+- Desenvolvimento de Protótipos Refinados
+- Avaliação Final e Coleta de Feedback
+- Ajustes Finais e Preparação para Implementação
 
-#### Fase VI: Encerramento – Setembro
+#### Fase VI: Encerramento – Dezembro:
+- Validação Final e Testes de Aceitação
+- Documentação Final
+- Implementação final
 
 ### 3.4 Entregas de cada Fase
 | Fase | Mês | Entregavél |
-|------|:---:|------------|
-| I. Especificação | Janeiro e Fevereiro | |
-| II. Inspeção | Março e Abril| |
-| III. Projeto e Arquitetura | Maio e Junho | |
-| IV. Prototipagem e Refinamento | Julho e Agosto| |
-| V. Encerramento | Setembro | |
+|------|:---:|:----------:|
+| I. Especificação | Maio e Junho| Documento de requisitos e plano detalhado |
+| II. Inspeção | Julho| Revisão de requisitos e ajustes |
+| III. Projeto e Arquitetura | Agosto e Setembro | Arquitetura do sistema e diagramas UML |
+| IV. Prototipagem e Refinamento | Outubro e Novembro| Protótipos com as principais funcionalidades do aplicativo |
+| V. Encerramento | Dezembro | Aplicativo finalizado |
 
 ### 3.5 Controle de Mudanças
 O monitoramento e controle do escopo do projeto serão realizados a partir das seguintes diretrizes:
