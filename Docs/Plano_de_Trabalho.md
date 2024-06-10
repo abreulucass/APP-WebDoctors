@@ -10,7 +10,7 @@
 ## Histórico de Versão
 | Versão |             Descrição           |   Autor   | Data  |
 |--------|---------------------------------|-----------|-------|
-| 1.0    | Elaboração do Plano de Trabalho |           |  04/06 |
+| 1.0    | Elaboração do Plano de Trabalho | Mateus    |  04/06 |
 
 ## Índice
 1. [Introdução](https://github.com/abreulucass/APP-WebDoctors/blob/main/Docs/Plano_de_Trabalho.md#1-introdução)
@@ -185,11 +185,11 @@ A cronologia metodológica se baseia nos seguintes aspectos:
 ### 3.4 Entregas de cada Fase
 | Fase | Mês | Entregavél |
 |------|:---:|------------|
-| I. Especificação | | |
-| II. Inspeção | | |
-| III. Projeto e Arquitetura | | |
-| IV. Prototipagem e Refinamento | | |
-| V. Encerramento | | |
+| I. Especificação | Janeiro e Fevereiros | |
+| II. Inspeção | Março e Abril| |
+| III. Projeto e Arquitetura | Maio e Junho | |
+| IV. Prototipagem e Refinamento | Julho e Agosto| |
+| V. Encerramento | Setembro | |
 
 ### 3.5 Controle de Mudanças
 O monitoramento e controle do escopo do projeto serão realizados a partir das seguintes diretrizes:
