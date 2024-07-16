@@ -9,7 +9,8 @@
 semana e mês.
 - O médico deve poder bloquear horários por indisponibilidade de atendimento. 
 - O médico deve receber notificações de novas marcações, cancelamentos ou alterações de consultas. 
-- O sistema deve alertar possíveis conflitos de horários ao editar um horário de atendimento. 
+- O sistema deve alertar possíveis conflitos de horários ao editar um horário de atendimento.
+- O médico deve ser cadastrado e verificado na plataforma.
 
 ### 2. Como médico Eu quero gerenciar o histórico de consultas dos pacientes Para qualquer prévia informação importante que eu precise visualizar. 
 #### Critérios de aceitação: 
