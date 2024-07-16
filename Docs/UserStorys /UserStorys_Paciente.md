@@ -3,10 +3,11 @@
 ### 1. Como paciente Eu quero marcar consultas online Para que eu não precise sair de casa e ir a locais físicos me consultar.
 
 #### Critérios de aceitação: 
-- Deve ser disponibilizado um calendário para o paciente selecionar o dia da consulta. 
-- Deve ser disponibilizado ao paciente apenas horários disponíveis. 
+- Deve ser disponibilizado um calendário para o paciente selecionar o dia da consulta a partir do botão de marcar consultas aparecendo outro botão de calendário com dias disponíveis.
+- Deve ser disponibilizado ao paciente apenas horários e datas disponíveis. 
 - Deve ser disponibilizado ao paciente um campo onde ele deve escrever o motivo prévio da consulta. 
 - Deve ser fornecido ao usuário uma tela com todos os dados informados por ele, para que ele possa confirmar todas as informações.
+- O paciente deve poder editar as informações caso estejam erradas antes de confirmar o agendamento da consulta.
 - O paciente deve ser cadastrado e verificado na plataforma.
 
 #### Regras de Negócio: 
@@ -15,22 +16,29 @@
 ### 2. Como paciente Eu quero remarcar consultas Para evitar sair de casa. 
 
 #### Critérios de aceitação: 
-- O paciente deve ter acesso a opção de remarcar consulta através da lista de consultas. 
+- O paciente deve ter acesso a opção de remarcar consulta através do botão na tela inicial de lista de consultas. 
 - O paciente deve poder selecionar uma nova data e hora para a consulta. 
 - O paciente deve confirmar a nova data e hora da consulta. 
-- O sistema deve atualizar automaticamente a nova data e hora. 
+- O sistema deve atualizar automaticamente a nova data e hora.
+- O sistema deve confirmar ao paciente a remarcação da consulta através de uma mensagem na tela de confirmação
+#### Regras de Negócio
+- O paciente só poderá remarcar uma consulta com 24 horas de antecedência.
 
 ### 3. Como paciente Eu quero cancelar consultas Para evitar ir a locais físicos para fazer isso. 
 
 #### Critérios de aceitação: 
-- O paciente deve ter acesso a opção de cancelar consulta através da 
-lista de consultas. 
+- O paciente deve ter acesso a opção de cancelar consulta através do botão na tela inicial de lista de consultas.
+-  O sistema deverá solicitar ao paciente os motivos do cancelamento através de campo que ele poderá preencher escrevendo seus motivos.
 - O paciente deve confirmar o cancelamento da consulta. 
 
 #### Regras de Negócio: 
 - As consultas canceladas deverão ser registradas no sistema com o 
 motivo do cancelamento e com a data e a hora do cancelamento.
-- O cancelamento da consulta só deverá ocorrer 24 horas antes da consulta. 
+- O paciente só poderá cancelar uma consulta com 24 horas de
+antecedência.
+- O sistema deverá mostrar uma mensagem de alerta na tela caso o
+paciente tente cancelar a consulta dentro de 24 horas antes da
+consulta ser iniciada, impedindo ele de cancelar.
 
 ### 4. Como paciente Eu quero ver consultas marcadas Para que eu possa ter o controle das minhas consultas agendadas. 
 #### Critérios de aceitação: 
