@@ -6,7 +6,8 @@
 - Deve ser disponibilizado um calendário para o paciente selecionar o dia da consulta. 
 - Deve ser disponibilizado ao paciente apenas horários disponíveis. 
 - Deve ser disponibilizado ao paciente um campo onde ele deve escrever o motivo prévio da consulta. 
-- Deve ser fornecido ao usuário uma tela com todos os dados informados por ele, para que ele possa confirmar todas as informações. 
+- Deve ser fornecido ao usuário uma tela com todos os dados informados por ele, para que ele possa confirmar todas as informações.
+- O paciente deve ser cadastrado e verificado na plataforma.
 
 #### Regras de Negócio: 
 - Todas as consultas online devem ser asseguradas através da Lei da Telemedicina (Lei nº 14.510) que estabelece os critérios para atendimento médico a distância.
