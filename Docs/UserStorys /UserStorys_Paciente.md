@@ -28,7 +28,7 @@
 
 #### Critérios de aceitação: 
 - O paciente deve ter acesso a opção de cancelar consulta através do botão na tela inicial de lista de consultas.
--  O sistema deverá solicitar ao paciente os motivos do cancelamento através de campo que ele poderá preencher escrevendo seus motivos.
+- O sistema deverá solicitar ao paciente os motivos do cancelamento através de campo que ele poderá preencher escrevendo seus motivos.
 - O paciente deve confirmar o cancelamento da consulta. 
 
 #### Regras de Negócio: 
@@ -42,29 +42,34 @@ consulta ser iniciada, impedindo ele de cancelar.
 
 ### 4. Como paciente Eu quero ver consultas marcadas Para que eu possa ter o controle das minhas consultas agendadas. 
 #### Critérios de aceitação: 
-- A partir da tela inicial do aplicativo o paciente deve ter acesso a lista de consultas. 
+- A partir da tela inicial do aplicativo o paciente deve ter acesso a lista de consultas apertando um botão que levará para a lista de consultas
+marcadas. 
 - O paciente deve visualizar todas as informações da consulta, como data, hora e o motivo da consulta. 
-- As consultas marcadas devem ser mostradas em ordem cronológica, 
-começando pela mais próxima. 
+-  As consultas marcadas devem ser mostradas em ordem cronológica,
+começando pelas consultas mais próximas agendadas em relação a
+data. 
 - O paciente deve ver o status da consulta, como cancelada, confirmada 
 ou remarcada. 
 
-### 5. Como paciente Eu quero receber lembretes de consultas agendadas para que eu não esqueça das consultas agendadas. 
+### 5. Como paciente Eu quero receber um lembrete de que uma consulta está próxima Para que eu não esqueça das consultas futuras.
 #### Critérios de aceitação: 
-- O paciente deve poder selecionar nas configurações se deseja ou não receber lembretes. 
+- O paciente deve poder selecionar nas configurações se deseja ou não receber lembretes.
+- O paciente deve poder selecionar nas configurações o intervalo de
+recebimento dos lembretes.
 - O paciente deve receber um lembrete 24 horas antes da consulta agendada e 1 hora antes da consulta agendada. 
 - Os lembretes devem ser enviados por email e/ou notificação push, a depender da escolha do paciente. 
 - No conteúdo do lembrete deve constar a data, hora, nome do médico e o motivo da consulta. 
-- O paciente deve poder confirmar o recebimento do lembrete por email ou notificação. 
 
 ### 6. Como paciente Eu quero enviar exames Para facilitar o acesso do médico aos meus exames. 
 #### Critérios de aceitação: 
-- O paciente deve enviar os exames necessários para cada consulta ao 
-entrar nos detalhes da consulta. 
+- O paciente deve poder enviar os exames necessários para cada
+consulta ao entrar nos detalhes da consulta e clicar no botão de
+“enviar arquivo”. 
 - O paciente deve poder enviar seus arquivos de exames nos formatos de JPEG, PNG, PDF, DICOM a partir do próprio dispositivo.
 - O paciente deve enviar arquivos (imagem, PDF) de no máximo 20 MB por arquivo. 
-- O paciente deve ter uma prévia visualização dos arquivos enviados 
-para a confirmação dos dados. 
+- O paciente deve ter uma prévia visualização dos arquivos a serem
+enviados para a confirmação dos dados, podendo cancelar o envio e
+refazer esse processo se achar necessário
 
 #### Regras de negócio: 
 - Os dados pessoais dos pacientes devem ser protegidos contra acesso não autorizado e em conformidade com a Lei Geral de Proteção de Dados Pessoais (nº 13.709/2018). 
@@ -73,28 +78,18 @@ momento em que o paciente confirmou o envio do exame.
  
 ### 7. Como paciente Eu quero ver meu prontuário Para ter acesso fácil as minhas informações médicas. 
 #### Critérios de aceitação: 
-- O paciente deve ter acesso ao prontuário a partir da página inicial do aplicativo. 
+- O paciente deve ter acesso ao prontuário a partir de um botão na
+página inicial do aplicativo
 - O prontuário deve incluir informações como histórico de consulta, diagnósticos, tratamentos, receitas médicas e resultados de exames. 
-- Todas as informações devem estar listadas de cima para baixo. 
-- O paciente deve poder realizar download do prontuário. 
 - O prontuário deve estar disponível aos médicos para cada consulta. 
 
-### 8. Como paciente Eu quero atualizar meu prontuário Para que minhas informações estejam sempre em dia para as consultas. 
+### 9. Como paciente Eu quero ver fila de atendimento Para eu poder saber quanto tempo falta para eu ser atendido.
 #### Critérios de aceitação: 
-- O paciente deve ter acesso a opção de atualizar seu prontuário a partir da página principal do aplicativo. 
-- O paciente deve poder atualizar informações pessoais como nome, endereço e contato. 
-- O paciente deve poder adicionar ou atualizar informações médicas. 
-- O paciente deve ser informado da confirmação após a validação médica. 
-
-#### Regras de Negócio:
-- Todas as atualizações no prontuário do paciente devem ser revisadas e aprovadas por um médico antes de serem confirmadas e incorporadas permanentemente ao prontuário. 
-- O médico responsável pela validação das atualizações deve ser notificado imediatamente após a submissão das alterações pelo paciente. 
-
-### 9. Como paciente Eu quero ver fila de atendimento Para que eu possa me programar quanto às consultas. 
-#### Critérios de aceitação: 
-- O paciente deve ter acesso a opção de ver fila de atendimento a partir da página principal do aplicativo. 
+- O paciente deve ter acesso a opção de ver fila de atendimento a partir
+do botão de “lista de consultas” que estará na tela inicial e ao entrar na
+lista de consultas poderá ver a fila de atendimento para sua consulta
+que estará prestes a começar. 
 - O paciente deve poder ver sua posição atual em tempo real na fila de atendimento. 
 - O paciente deve poder ver o número de pessoas que tem à sua frente na fila. 
-- O sistema deve fornecer ao paciente uma estimativa de espera na fila. 
 - O paciente deve receber uma notificação quando sua vez estiver próxima. 
 
