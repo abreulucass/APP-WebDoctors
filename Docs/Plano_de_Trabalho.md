@@ -2,7 +2,7 @@
 
 | Nome do Projeto:       |           WebDoctors            |
 |:----------------------:|:-------------------------------:|
-|       Versão:          |              1.0                |
+|       Versão:          |              1.1                |
 |       Status:          | Elaboração do Plano de Trabalho |
 | Executor Principal:    | Lucas Matos                     |
 |Coordenador do Projeto: | Andrey Rodrigues                |
@@ -11,6 +11,7 @@
 | Versão |             Descrição           |   Autor   | Data  |
 |--------|---------------------------------|:-----------:|-------|
 | 1.0    | Elaboração do Plano de Trabalho | Emanuelle Gil, Erison Pinto, Lucas Matos, Mateus, Willy Gonzaga |  10 de Maio de 2024 |
+| 1.1    | Inclusão da Inspeção            | Emanuelle Gil, Erison Pinto, Lucas Matos, Mateus, Willy Gonzaga |  14 de Julho de 2024|
 
 ## Índice
 1. [Introdução](https://github.com/abreulucass/APP-WebDoctors/blob/main/Docs/Plano_de_Trabalho.md#1-introdução)
