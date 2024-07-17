@@ -31,19 +31,25 @@ o ator médico inicia o fluxo solicitando ao sistema a visualização do prontu�
 
 # Diagrama de Sequência para o Paciente
 ## DS Paciente (cancelarConsulta)
+Esse diagrama mostra como será feita a solicitação de cancelamento pelo paciente.
 ![img](https://github.com/abreulucass/APP-WebDoctors/blob/main/imagens/diagramas-de-sequ%C3%AAncia/DS%20Paciente%20(cancelarConsulta).jpg?raw=true)
 
 ## DS Paciente (marcarConsulta)
+Esse diagrama mostra como o paciente irá marcar uma consulta dentro do aplicativo.
 ![img](https://github.com/abreulucass/APP-WebDoctors/blob/main/imagens/diagramas-de-sequ%C3%AAncia/DS%20Paciente%20(marcarConsulta).jpg?raw=true)
 
 ## DS Paciente (remarcarConsulta)
+Esse diagrama mostra como o paciente irá remarcar uma consulta caso seja necessário.
 ![img](https://github.com/abreulucass/APP-WebDoctors/blob/main/imagens/diagramas-de-sequ%C3%AAncia/DS%20Paciente%20(remarcarConsulta).jpg?raw=true)
 
 ## DS Paciente (visualizarConsultas)
+Esse diagrama mostra como o paciente poderá visualizar as suas consultas marcadas.
 ![img](https://github.com/abreulucass/APP-WebDoctors/blob/main/imagens/diagramas-de-sequ%C3%AAncia/DS%20Paciente%20(visualizarConsultas).jpg?raw=true)
 
 ## DS Paciente (visualizarFilaAtendimento)
+Esse digrama mostra como o paciente poderá visualizar a fila de atendimento para saber quando será a sua vez de ser atendido.
 ![img](https://github.com/abreulucass/APP-WebDoctors/blob/main/imagens/diagramas-de-sequ%C3%AAncia/DS%20Paciente%20(visualizarFilaAtendimento).jpg?raw=true)
 
 ## DS Paciente (visualizarProntuário)
+Esse diagrama mostra como o paciente conseguirá visualizar o seu prontuário médico.
 ![img](https://github.com/abreulucass/APP-WebDoctors/blob/main/imagens/diagramas-de-sequ%C3%AAncia/DS%20Paciente%20(visualizarProntu%C3%A1rio).jpg?raw=true)
