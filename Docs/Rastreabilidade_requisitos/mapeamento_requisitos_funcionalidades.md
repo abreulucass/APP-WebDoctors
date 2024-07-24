@@ -16,9 +16,13 @@
 - Todas as consultas online devem ser asseguradas através da Lei da Telemedicina (Lei nº 14.510) que estabelece os critérios para atendimento médico a distância.
 
 ![img](https://github.com/abreulucass/APP-WebDoctors/blob/main/Telas_prototitpo/telas_paciente/Agendamento%201.png?raw=true)
+
 ![img](https://github.com/abreulucass/APP-WebDoctors/blob/main/Telas_prototitpo/telas_paciente/Agendamento%202.png?raw=true)
+
 ![img](https://github.com/abreulucass/APP-WebDoctors/blob/main/Telas_prototitpo/telas_paciente/Agendamento%203.png?raw=true)
+
 ![img](https://github.com/abreulucass/APP-WebDoctors/blob/main/Telas_prototitpo/telas_paciente/Agendamento%204.png?raw=true)
+
 ![img](https://github.com/abreulucass/APP-WebDoctors/blob/main/Telas_prototitpo/telas_paciente/Agendamento%205.png?raw=true)
 
 
@@ -34,7 +38,9 @@
 - O paciente só poderá remarcar uma consulta com 24 horas de antecedência.
 
 ![img](https://github.com/abreulucass/APP-WebDoctors/blob/main/Telas_prototitpo/telas_paciente/Remarcar1.png?raw=true)
+
 ![img](https://github.com/abreulucass/APP-WebDoctors/blob/main/Telas_prototitpo/telas_paciente/Remarcar2.png?raw=true)
+
 ![img](https://github.com/abreulucass/APP-WebDoctors/blob/main/Telas_prototitpo/telas_paciente/Remarcar3.png?raw=true)
 
 ### 3. Como paciente Eu quero cancelar consultas Para evitar ir a locais físicos para fazer isso. 
@@ -54,7 +60,9 @@ paciente tente cancelar a consulta dentro de 24 horas antes da
 consulta ser iniciada, impedindo ele de cancelar.
 
 ![img](https://github.com/abreulucass/APP-WebDoctors/blob/main/Telas_prototitpo/telas_paciente/Cancelar1.png?raw=true)
+
 ![img](https://github.com/abreulucass/APP-WebDoctors/blob/main/Telas_prototitpo/telas_paciente/Cancelar2.png?raw=true)
+
 ![img](https://github.com/abreulucass/APP-WebDoctors/blob/main/Telas_prototitpo/telas_paciente/Cancelar3.png?raw=true)
 
 ### 4. Como paciente Eu quero ver consultas marcadas Para que eu possa ter o controle das minhas consultas agendadas. 
@@ -80,6 +88,7 @@ recebimento dos lembretes.
 - No conteúdo do lembrete deve constar a data, hora, nome do médico e o motivo da consulta. 
 
 ![img](https://github.com/abreulucass/APP-WebDoctors/blob/main/Telas_prototitpo/telas_paciente/Lembrete1.png?raw=true)
+
 ![img](https://github.com/abreulucass/APP-WebDoctors/blob/main/Telas_prototitpo/telas_paciente/Lembrete2.png?raw=true)
 
 ### 6. Como paciente Eu quero enviar exames Para facilitar o acesso do médico aos meus exames. 
@@ -99,8 +108,11 @@ refazer esse processo se achar necessário
 momento em que o paciente confirmou o envio do exame.
 
 ![img](https://github.com/abreulucass/APP-WebDoctors/blob/main/Telas_prototitpo/telas_paciente/AnexarExame1.png?raw=true)
+
 ![img](https://github.com/abreulucass/APP-WebDoctors/blob/main/Telas_prototitpo/telas_paciente/AnexarExame2.png?raw=true)
+
 ![img](https://github.com/abreulucass/APP-WebDoctors/blob/main/Telas_prototitpo/telas_paciente/AnexarExame3.png?raw=true)
+
 ![img](https://github.com/abreulucass/APP-WebDoctors/blob/main/Telas_prototitpo/telas_paciente/AnexarExame4.png?raw=true)
 
 ### 7. Como paciente Eu quero ver meu prontuário Para ter acesso fácil as minhas informações médicas. 
@@ -145,11 +157,17 @@ tela.
 consulta específica (Ex: Nome, Idade, Exames já feitos e etc).
 
 ![img](https://github.com/abreulucass/APP-WebDoctors/blob/main/Telas_prototitpo/telas_medico/GerenciarHorario1.png?raw=true)
+
 ![img](https://github.com/abreulucass/APP-WebDoctors/blob/main/Telas_prototitpo/telas_medico/GerenciarHorario2.png?raw=true)
+
 ![img](https://github.com/abreulucass/APP-WebDoctors/blob/main/Telas_prototitpo/telas_medico/GerenciarHorario3.png?raw=true)
+
 ![img](https://github.com/abreulucass/APP-WebDoctors/blob/main/Telas_prototitpo/telas_medico/GerenciarHorario4.png?raw=true)
+
 ![img](https://github.com/abreulucass/APP-WebDoctors/blob/main/Telas_prototitpo/telas_medico/GerenciarHorario5.png?raw=true)
+
 ![img](https://github.com/abreulucass/APP-WebDoctors/blob/main/Telas_prototitpo/telas_medico/GerenciarHorario6.png?raw=true)
+
 ![img](https://github.com/abreulucass/APP-WebDoctors/blob/main/Telas_prototitpo/telas_medico/GerenciarHorario7.png?raw=true)
 
 ### 2. Como médico Eu quero gerenciar o histórico de consultas dos pacientes Para visualizar informações de consultas já realizadas.
@@ -162,7 +180,9 @@ aplicativo.
 - O médico deve poder filtrar a busca por consultas através do motivo da consulta.
 
 ![img](https://github.com/abreulucass/APP-WebDoctors/blob/main/Telas_prototitpo/telas_medico/HistoricodeConsultas1.png?raw=true)
+
 ![img](https://github.com/abreulucass/APP-WebDoctors/blob/main/Telas_prototitpo/telas_medico/HistoricodeConsultas2.png?raw=true)
+
 ![img](https://github.com/abreulucass/APP-WebDoctors/blob/main/Telas_prototitpo/telas_medico/HistoricodeConsultas3.png?raw=true)
 
 ### 3. Como médico Eu quero remarcar consultas Para facilitar o gerenciamento de consultas com pacientes. 
@@ -184,9 +204,13 @@ confirmação da remarcação de consulta.
 antecedência
 
 ![img](https://github.com/abreulucass/APP-WebDoctors/blob/main/Telas_prototitpo/telas_medico/RemarcarConsulta1.png?raw=true)
+
 ![img](https://github.com/abreulucass/APP-WebDoctors/blob/main/Telas_prototitpo/telas_medico/RemarcarConsulta2.png?raw=true)
+
 ![img](https://github.com/abreulucass/APP-WebDoctors/blob/main/Telas_prototitpo/telas_medico/RemarcarConsulta3.png?raw=true)
+
 ![img](https://github.com/abreulucass/APP-WebDoctors/blob/main/Telas_prototitpo/telas_medico/RemarcarConsulta4.png?raw=true)
+
 ![img](https://github.com/abreulucass/APP-WebDoctors/blob/main/Telas_prototitpo/telas_medico/RemarcarConsulta5.png?raw=true)
 
 ### 4. Como médico Eu quero cancelar consultas agendadas Para caso eu não possa atender.
@@ -210,6 +234,7 @@ médico tente cancelar a consulta dentro de 24 horas antes da consulta
 ser iniciada, impedindo ele de cancelar.
 
 ![img](https://github.com/abreulucass/APP-WebDoctors/blob/main/Telas_prototitpo/telas_medico/CancelarConsulta1.png?raw=true)
+
 ![img](https://github.com/abreulucass/APP-WebDoctors/blob/main/Telas_prototitpo/telas_medico/CancelarConsulta2.png?raw=true)
 
 ### 5. Como médico Eu quero receber um lembrete de que uma consulta está próxima Para evitar que eu me esqueça de consultas futuras.
@@ -220,6 +245,7 @@ ser iniciada, impedindo ele de cancelar.
 - No conteúdo do lembrete deve constar a data, hora, nome do paciente e o motivo da consulta. 
 
 ![img](https://github.com/abreulucass/APP-WebDoctors/blob/main/Telas_prototitpo/telas_medico/Lembrete1.png?raw=true)
+
 ![img](https://github.com/abreulucass/APP-WebDoctors/blob/main/Telas_prototitpo/telas_medico/Lembrete2.png?raw=true)
 
 
@@ -231,6 +257,7 @@ aplicativo.
 - O prontuário deve incluir informações como histórico de consulta, diagnósticos, tratamentos, receitas médicas e resultados de exames.
 
 ![img](https://github.com/abreulucass/APP-WebDoctors/blob/main/Telas_prototitpo/telas_medico/Prontuario1.png?raw=true)
+
 ![img](https://github.com/abreulucass/APP-WebDoctors/blob/main/Telas_prototitpo/telas_medico/Prontuario2.png?raw=true)
 
 ### 8. Como médico Eu quero realizar upload de receitas médicas Para facilitar o controle do paciente com seus arquivos médicos. 
@@ -247,7 +274,10 @@ refazer esse processo se achar necessário.
 - Todas as receitas médicas devem seguir os modelos fornecidos pelo CRM (Conselho Federal de Medicina) para garantir a conformidade dos documentos.
 
 ![img](https://github.com/abreulucass/APP-WebDoctors/blob/main/Telas_prototitpo/telas_medico/UploadReceitas1.png?raw=true)
+
 ![img](https://github.com/abreulucass/APP-WebDoctors/blob/main/Telas_prototitpo/telas_medico/UploadReceitas2.png?raw=true)
+
 ![img](https://github.com/abreulucass/APP-WebDoctors/blob/main/Telas_prototitpo/telas_medico/UploadReceitas3.png?raw=true)
+
 ![img](https://github.com/abreulucass/APP-WebDoctors/blob/main/Telas_prototitpo/telas_medico/UploadReceitas4.png?raw=true)
 
