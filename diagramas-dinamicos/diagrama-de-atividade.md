@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/79d67217-8b29-4878-9ee2-74df3ee37298)# Diagramas de Atividade para o Médico
+# Diagramas de Atividade para o Médico
 ## DA Médico (adicionarHorarioDisponivel)
 
 ![img](https://github.com/abreulucass/APP-WebDoctors/blob/main/imagens/Diagrama-de-atividade/DA-Medico/DAM1%20-adicionarHorarioDisponivel.png?raw=true)
