@@ -2,7 +2,7 @@
 ## DS Médico (adicionarHorarioDisponivel)
 Neste diagrama de sequência o ator médico inicia o fluxo solicitando ao sistema a adição de um horário, colocando ou enviando como parâmetro os dados de Data e Hora, após isso, o sistema entra no processo de tratar as condições: 1 - Horário livre de conflito: onde o horário está livre e o sistema grava os dados informados pelo ator. 2 - Horário em conflito: o sistema informa ao ator que o horário não está disponível.
 
-![img](https://github.com/abreulucass/APP-WebDoctors/blob/main/imagens/diagramas-de-sequ%C3%AAncia/DS%20M%C3%A9dico%20(cancelarConsulta).jpg?raw=true)
+![img](https://github.com/abreulucass/APP-WebDoctors/blob/main/imagens/diagramas-de-sequ%C3%AAncia/DS%20M%C3%A9dico%20(adicionarHorarioDisponivel).jpg?raw=true)
 
 ## DS Médico (cancelarConsulta)
 O ator solicita o cancelamento passando como parâmetro o motivo do cancelamento, após isso, o sistema irá verificar no banco de dados a consulta e então valida o cancelamento e exibe uma mensagem de sucesso ao ator.
