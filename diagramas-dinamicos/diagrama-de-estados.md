@@ -1,49 +1,49 @@
-# Diagramas de Atividade para o Médico
-## DA Médico (adicionarHorarioDisponivel)
+# Diagramas de Estados para o Médico
+## DE Médico (adicionarHorarioDisponivel)
 
 ![img](https://github.com/abreulucass/APP-WebDoctors/blob/main/imagens/Diagrama-de-Estados/Diagrama%20de%20Estados%20-%20ME/Imagens/Diagrama%20de%20Estados%20-%20ME/adicionarHor%C3%A1rioDisponivel.png?raw=true)
 
-## DA Médico (cancelarConsulta)
+## DE Médico (cancelarConsulta)
 
 ![img](https://github.com/abreulucass/APP-WebDoctors/blob/main/imagens/Diagrama-de-Estados/Diagrama%20de%20Estados%20-%20ME/Imagens/Diagrama%20de%20Estados%20-%20ME/cancelarConsulta.png?raw=true)
 
-## DA Médico (remarcarConsulta)
+## DE Médico (remarcarConsulta)
 
 ![img](https://github.com/abreulucass/APP-WebDoctors/blob/main/imagens/Diagrama-de-Estados/Diagrama%20de%20Estados%20-%20ME/Imagens/Diagrama%20de%20Estados%20-%20ME/remarcarConsultas.png?raw=true)
 
-## DA Médico (removerHorarioDisponivel)
+## DE Médico (removerHorarioDisponivel)
 
 ![img](https://github.com/abreulucass/APP-WebDoctors/blob/main/imagens/Diagrama-de-Estados/Diagrama%20de%20Estados%20-%20ME/Imagens/Diagrama%20de%20Estados%20-%20ME/removerHor%C3%A1rioDisponivel.png?raw=true)
 
-## DA Médico (visualizarConsultas)
+## DE Médico (visualizarConsultas)
 
 ![img](https://github.com/abreulucass/APP-WebDoctors/blob/main/imagens/Diagrama-de-Estados/Diagrama%20de%20Estados%20-%20ME/Imagens/Diagrama%20de%20Estados%20-%20ME/vizualizarConsultas.png?raw=true)
 
-## DA Médico (visualizarProntuario)
+## DE Médico (visualizarProntuario)
 
 ![img](https://github.com/abreulucass/APP-WebDoctors/blob/main/imagens/Diagrama-de-Estados/Diagrama%20de%20Estados%20-%20ME/Imagens/Diagrama%20de%20Estados%20-%20ME/vizualizarProntu%C3%A1rios.png?raw=true)
 
-# Diagrama de Atividade para o Paciente
-## DA Paciente (cancelarConsulta)
+# Diagrama de Estados para o Paciente
+## DE Paciente (cancelarConsulta)
 
 ![img](https://github.com/abreulucass/APP-WebDoctors/blob/main/imagens/Diagrama-de-Estados/Diagrama%20de%20Estados%20-%20PA/Imagens/Diagrama%20de%20Estados%20-%20PA/cancelarConsulta.png?raw=true)
 
-## DA Paciente (marcarConsulta)
+## DE Paciente (marcarConsulta)
 
 ![img](https://github.com/abreulucass/APP-WebDoctors/blob/main/imagens/Diagrama-de-Estados/Diagrama%20de%20Estados%20-%20PA/Imagens/Diagrama%20de%20Estados%20-%20PA/marcarConsulta.png?raw=true)
 
-## DA Paciente (remarcarConsulta)
+## DE Paciente (remarcarConsulta)
 
 ![img](https://github.com/abreulucass/APP-WebDoctors/blob/main/imagens/Diagrama-de-Estados/Diagrama%20de%20Estados%20-%20PA/Imagens/Diagrama%20de%20Estados%20-%20PA/remarcarConsultas.png?raw=true)
 
-## DA Paciente (visualizarConsultas)
+## DE Paciente (visualizarConsultas)
 
 ![img](https://github.com/abreulucass/APP-WebDoctors/blob/main/imagens/Diagrama-de-Estados/Diagrama%20de%20Estados%20-%20PA/Imagens/Diagrama%20de%20Estados%20-%20PA/visualizarFilaAtendimento.png?raw=true)
 
-## DA Paciente (visualizarFilaAtendimento)
+## DE Paciente (visualizarFilaAtendimento)
 
 ![img](https://github.com/abreulucass/APP-WebDoctors/blob/main/imagens/Diagrama-de-Estados/Diagrama%20de%20Estados%20-%20PA/Imagens/Diagrama%20de%20Estados%20-%20PA/vizualizarConsultas.png?raw=true)
 
-## DA Paciente (visualizarProntuário)
+## DE Paciente (visualizarProntuário)
 
 ![img](https://github.com/abreulucass/APP-WebDoctors/blob/main/imagens/Diagrama-de-Estados/Diagrama%20de%20Estados%20-%20PA/Imagens/Diagrama%20de%20Estados%20-%20PA/vizualizarProntu%C3%A1rios.png?raw=true)
