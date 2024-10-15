@@ -1,4 +1,4 @@
-# Diagramas de Estados para o Médico
+# Diagramas de Estado para o Médico
 ## DE Médico (adicionarHorarioDisponivel)
 
 ![img](https://github.com/abreulucass/APP-WebDoctors/blob/main/imagens/Diagrama-de-Estados/Diagrama%20de%20Estados%20-%20ME/Imagens/Diagrama%20de%20Estados%20-%20ME/adicionarHor%C3%A1rioDisponivel.png?raw=true)
@@ -23,7 +23,7 @@
 
 ![img](https://github.com/abreulucass/APP-WebDoctors/blob/main/imagens/Diagrama-de-Estados/Diagrama%20de%20Estados%20-%20ME/Imagens/Diagrama%20de%20Estados%20-%20ME/vizualizarProntu%C3%A1rios.png?raw=true)
 
-# Diagrama de Estados para o Paciente
+# Diagrama de Estado para o Paciente
 ## DE Paciente (cancelarConsulta)
 
 ![img](https://github.com/abreulucass/APP-WebDoctors/blob/main/imagens/Diagrama-de-Estados/Diagrama%20de%20Estados%20-%20PA/Imagens/Diagrama%20de%20Estados%20-%20PA/cancelarConsulta.png?raw=true)
